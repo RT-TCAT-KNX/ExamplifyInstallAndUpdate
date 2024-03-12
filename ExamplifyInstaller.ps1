@@ -1,1 +1,1 @@
-﻿.\Examplify_3.4.6_win.exe /s /v" /qn REBOOT=ReallySuppress" /z"C:\Receive\"Tennessee College of Applied Technology Nursing Program"\setup.json"
+﻿.\Examplify_3.4.6_win.exe /s /v" /qn REBOOT=ReallySuppress" /z"C:\Examplify\setup.json"
