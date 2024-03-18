@@ -2,7 +2,9 @@
 
 A set of scripts to Install or update Examplify on lab devices.
 
-ExamplifyUpdate and ExmplifyInstall scripts were copied from Examsoft's [Examplify: Lab Setup](https://support.examsoft.com/hc/en-us/articles/12000932117005-Examplify-Lab-Setup) page.
+ExamplifyUpdate and ExmplifyInstall PowerShell scripts were copied from Examsoft's [Examplify: Lab Setup](https://support.examsoft.com/hc/en-us/articles/12000932117005-Examplify-Lab-Setup) page.
+
+ExamplifyUpdate and ExmplifyInstall batch files were copied from How-To-Geeks's [How to Use a Batch File to Make PowerShell Scripts Easier to Run](https://www.howtogeek.com/204088/how-to-use-a-batch-file-to-make-powershell-scripts-easier-to-run/) page.
 
 *ExamplifyInstall* is for machines that ***do not*** have Examplify installed at all.
 *ExamplifyUpdate* is for machines that ***already*** have Examplify installed, but need an update.
