@@ -10,7 +10,7 @@ ExamplifyUpdate and ExmplifyInstall scripts were copied from Examsoft's [Exampli
 ## Prerequisites
 1. Download the latest major version of the Examplify installer .exe (3.4.6 for Windows currently)
 2. Contact Examsoft Support for your .iss and .json setup files. 
-Optional: change the Examplify installer version if you wish to install a different version.
+Optional: change the Examplify installer version in the scripts if you wish to install a different version.
 
 ## Instructions
 1. Download the latest .zip from this repository
@@ -21,8 +21,8 @@ Optional: change the Examplify installer version if you wish to install a differ
 6. Left-click and then right-click on ExamplifyCopy
 7. Select "Run as administrator"
 8. Go to the C:\Examplify on the machine
-9. Left-click and then right-click on ExamplifyInstall or ExamplifyUpdate
-10. Select "Run with PowerShell"
+9. Left-click and then right-click on the ExamplifyInstall or ExamplifyUpdate **.bat** file
+10. Select "Run as administrator"
 11. Select "Yes" to allow the installer to make changes to the device.
 
 The Examplify installer icon will appear, but will run in the background.

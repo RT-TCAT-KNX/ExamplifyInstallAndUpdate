@@ -1,1 +1,1 @@
-﻿.\Examplify_3.4.6_win.exe /s /v" /qn REBOOT=ReallySuppress" /z"C:\Examplify\setup.json"
+﻿C:\Examplify\Examplify_3.4.6_win.exe /s /v" /qn REBOOT=ReallySuppress" /z"C:\Examplify\setup.json"
